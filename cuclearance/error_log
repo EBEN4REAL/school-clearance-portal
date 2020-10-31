@@ -1,0 +1,132 @@
+[20-Oct-2020 20:57:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/battensh/cuclearance/clr.php on line 5
+[30-Oct-2020 22:00:59 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:00:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:01:12 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:01:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:01:31 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:01:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:03:27 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:03:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:03:31 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:03:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:03:38 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:03:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:07:10 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:07:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:16:03 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:16:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:33:36 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:33:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:46:08 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:46:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:46:13 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cu-project-new/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:46:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cu-project-new/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:54:17 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cuclearance/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:54:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cuclearance/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:54:20 UTC] PHP Warning:  require_once(/home/battensh/cuclearance/cuclearance/includes/config.php): failed to open stream: No such file or directory in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:54:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/battensh/cuclearance/cuclearance/includes/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/battensh/cuclearance/classes/General.php on line 11
+[30-Oct-2020 22:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/battensh/cuclearance/classes/General.php:410
+Stack trace:
+#0 /home/battensh/cuclearance/clearance_students.php(483): General->getStudentRecords()
+#1 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 410
+[30-Oct-2020 22:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/battensh/cuclearance/classes/General.php:410
+Stack trace:
+#0 /home/battensh/cuclearance/clearance_students.php(483): General->getStudentRecords()
+#1 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 410
+[30-Oct-2020 22:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/battensh/cuclearance/classes/General.php:410
+Stack trace:
+#0 /home/battensh/cuclearance/clearance_students.php(483): General->getStudentRecords()
+#1 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 410
+[30-Oct-2020 22:59:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2163
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2163): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1005): General->getDepartTotalItems(NULL, 'A018211518')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2163
+[30-Oct-2020 23:58:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'battensh_cu_clearance.reglist' doesn't exist in /home/battensh/cuclearance/classes/General.php:409
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(409): PDOStatement->execute()
+#1 /home/battensh/cuclearance/clearance_students.php(483): General->getStudentRecords()
+#2 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 409
+[31-Oct-2020 01:34:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2163
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2163): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1005): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2163
+[31-Oct-2020 01:35:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2163
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2163): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1005): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2163
+[31-Oct-2020 01:35:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2163
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2163): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1005): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2163
+[31-Oct-2020 01:35:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2163
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2163): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1005): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2163
+[31-Oct-2020 01:36:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2163
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2163): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1005): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2163
+[31-Oct-2020 01:37:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2163
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2163): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1005): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2163
+[31-Oct-2020 01:39:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2163
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2163): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1005): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2163
+[31-Oct-2020 01:43:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2076
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2076): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1004): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2076
+[31-Oct-2020 01:43:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2076
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2076): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1004): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2076
+[31-Oct-2020 01:46:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2076
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2076): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1004): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/csis.php(44): General->getKickoffRecords()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2076
+[31-Oct-2020 01:46:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/battensh/cuclearance/classes/General.php:2076
+Stack trace:
+#0 /home/battensh/cuclearance/classes/General.php(2076): PDO->query('SELECT * from e...')
+#1 /home/battensh/cuclearance/classes/General.php(1168): General->getDepartTotalItems(NULL, 'A0198141619')
+#2 /home/battensh/cuclearance/clr.php(43): General->getKickoffRecordsForCLR()
+#3 {main}
+  thrown in /home/battensh/cuclearance/classes/General.php on line 2076
